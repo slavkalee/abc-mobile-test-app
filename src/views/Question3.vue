@@ -180,7 +180,7 @@ select.invalid {
   }
 }
 
-@media screen and (max-width: 320зч) {
+@media screen and (max-width: 320px) {
   select {
     font-size: 11px;
     width: 170px;
