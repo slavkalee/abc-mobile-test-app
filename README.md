@@ -1,4 +1,4 @@
-# abcmobile-test-app
+Deploy version - [https://pensive-gates-002273.netlify.app](https://pensive-gates-002273.netlify.app)
 
 ## Project setup
 ```
